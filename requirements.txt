@@ -1,7 +1,6 @@
-pyasgiref==3.4.1
+asgiref==3.4.1
 Django==3.2.13
 django-cors-headers==3.7.0
 djangorestframework==3.12.4
 PyJWT
 pytz==2021.1
-sqlparse==0.4.2
